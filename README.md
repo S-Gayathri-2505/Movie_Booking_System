@@ -55,13 +55,8 @@ Movie_Booking_System/
 ├── Booking.java
 ├── BookingSystem.java
 ├── Movie.java
-├── User.java
-│
-├── Main.class
-├── Booking.class
-├── BookingSystem.class
-├── Movie.class
-└── User.class
+└── User.java
+
 ```
 
 ---
